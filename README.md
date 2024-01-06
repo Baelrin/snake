@@ -1,4 +1,3 @@
-```markdown
 # Snake Game
 
 This is a simple implementation of the classic Snake game in Python. The game is played in a GUI window where the player controls a snake that moves around the screen eating food. The objective of the game is to eat as much food as possible without colliding with the snake's own body or the boundaries of the game board.
